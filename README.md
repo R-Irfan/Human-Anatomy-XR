@@ -14,3 +14,6 @@ Designed and implemented a simple Visual and Audio Feedback Affordance system.
 Immersive, engaging experience vs static textbooks.
 Learn anywhere, no lab required.
 Reinforces understanding with interactive, life-sized models.
+
+3D Models Credits: Z-Anatomy
+
